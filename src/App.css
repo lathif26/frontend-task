@@ -1,0 +1,25 @@
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-body {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-link {
+  display: block;
+  margin-top: 10px;
+  word-wrap: break-word;
+}
+
+.card-score {
+  font-size: 14px;
+  color: #888;
+}
